@@ -28,13 +28,13 @@ Développé en **React avec la méthode Atomic Design** et documenté via **Stor
 
 Le dashboard permet de visualiser en temps réel l'état des machines (OS, IP, Ports ouverts) et d'appliquer une isolation réseau immédiate en cas de compromission (Bouton "Bloquer").
 
-![Dashboard EDR](./assets/dashboard.png)
+![Dashboard EDR](./assets/tableau.png)
 
 ### Classification des Menaces (Threat Intelligence)
 
 Moteur de classification interactif des menaces et normes cyber (Legal, Critical Threats, Identity & Access...) basé sur une base de données de conformité dynamique.
 
-![Catégories Cyber](./assets/categories.png)
+![Catégories Cyber](./assets/devices.png)
 
 ### Storybook (Atelier de développement front)
 
