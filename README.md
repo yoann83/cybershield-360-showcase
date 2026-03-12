@@ -125,11 +125,11 @@ Le développement de la version 1.0 de **NEXUS** suit son cycle d'étude avec la
 - **Recherche IA Profonde** : Une intelligence artificielle locale analyse les comportements suspects en profondeur pour détecter les malwares complexes et alerter le RSSI.
 - **Réponse Active (Kill Switch)** : Capacité d'isolation immédiate de l'hôte compromis directement depuis l'interface pour stopper toute propagation.
 
-![Vue globale du parc informatique](./assets/appareils2.jpg)
+![Vue globale du parc informatique](./assets/appareils2.png)
 
 ![Alerte d'isolement immédiat](./assets/trafics2.png)
 
-![Tableau de bord et menaces IA](./assets/tableau_de_bord2.jpg)
+![Tableau de bord et menaces IA](./assets/tableau_de_bord2.png)
 
 ---
 
